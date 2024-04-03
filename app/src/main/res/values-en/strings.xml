@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Mixer</string>
+    <string name="tentang_aplikasi">About Application Color Mixer</string>
+    <string name="copyright">Mix Color Application is an Application for combining two primary colors into a new color that is Secondary color. So the user can find out the combination of the two colors entered by the user by entering the primary color which is where this is the 1st color and the Secondary color becomes the 2nd color. \n\nCopyright © 2024 Muhammad Rizki Anshari 6706223168.
+    \nAll rights reserved.</string>
+    <string name="kembali">Back</string>
+    <string name="primary_colors">First Color</string>
+    <string name="secondary_colors">Second Color</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="button">Combine</string>
+    <string name="combined_color">Text with Combined Color</string>
+    <string name="result">the combination between color %1$s and %2$s is %3$s</string>
+    <string name="button_share">Share</string>
+    <string name="share_content">First color: %1$s Second color: %2$s The result of the two color combined is : %3$s</string>
+    <string name="error_text">Enter the text you want to change</string>
+</resources>

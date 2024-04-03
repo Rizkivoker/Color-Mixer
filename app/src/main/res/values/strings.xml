@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Color Mixer</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi Color Mixer</string>
+    <string name="copyright">Aplikasi Mix Color adalah sebuah aplikasi untuk menggabungkan dua buah warna Primer menjadi sebuah warna baru
+    yaitu warna Sekunder. Sehingga user dapat mengetahui gabungan kedua warna yang user masukan dengan cara user memasukkan primary color yang dimana ini menjadi
+        warna ke 1 dan secondary color menjadi warna ke 2. \n\nCopyright © 2024 Muhammad Rizki Anshari 6706223168.
+    \nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+    <string name="primary_colors">Warna Pertama</string>
+    <string name="secondary_colors">Warna Kedua</string>
+    <string name="red">Merah</string>
+    <string name="yellow">Kuning</string>
+    <string name="blue">Biru</string>
+    <string name="purple">Ungu</string>
+    <string name="green">Hijau</string>
+    <string name="orange">Oranye</string>
+    <string name="button">Gabungkan</string>
+    <string name="combined_color">Text dengan Warna Gabungan</string>
+    <string name="result">Hasil gabungan antara warna %1$s dan %2$s adalah %3$s</string>
+    <string name="button_share">Bagikan</string>
+    <string name="share_content">Warna ke 1: %1$s Warna ke 2: %2$s Hasil Gabungan Ke 2 Warna adalah : %3$s </string>
+    <string name="error_text">Masukkan text yang ingin diubah</string>
+</resources>
