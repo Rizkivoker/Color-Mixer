@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="list_contactkosong">Belum ada data Contact</string>
+    <string name="tambah_contact">Tambah Contact</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="data_kosong">Data kosong</string>
+    <string name="nama_kosong">Nama tidak boleh kosong</string>
+    <string name="ttl_kosong">Tempat,Tanggal lahir tidak boleh kosong</string>
+    <string name="email_kosong">Email tidak boleh kosong</string>
+    <string name="notelp_kosong">No telepon tidak boleh kosong</string>
+    <string name="zodiak_kosong">Zodiak tidak boleh kosong</string>
+    <string name="nama">Nama</string>
+    <string name="ttl">Tempat Tanggal lahir </string>
+    <string name="tampilan_ttl">Tempat/Tanggal lahir : %1$s</string>
+    <string name="tampilan_email">Email : %1$s</string>
+    <string name="tampilan_Notelepon">No telepon : %1$s</string>
+    <string name="tampilan_zodiak">Zodiak : %1$s</string>
+    <string name="email">Email</string>
+    <string name="notelp">No Telepon</string>
+    <string name="zodiak">Zodiak</string>
+    <string name="isi">Isi</string>
+    <string name="pesan_hapus">Apakah Anda yakin ingin menghapus Contact ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+</resources>
